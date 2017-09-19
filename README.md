@@ -33,7 +33,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
   
 * **[DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](https://github.com/blackhole12/bad-licenses/blob/master/do-what-the-fuck-you-want-to-license)**
 
-  This license attempts to release the work into the public domain, but also requires that the name be changed, which lands this in extremely questionable legal territory. ¯\\\_(ツ)\_/¯ [Source](http://www.wtfpl.net/)
+  You just DO WHAT THE FUCK YOU WANT TO. [Source](http://www.wtfpl.net/)
   
 * **[LHA License](https://github.com/blackhole12/bad-licenses/blob/master/lha-license)**
 
