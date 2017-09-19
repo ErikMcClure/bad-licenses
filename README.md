@@ -1,22 +1,44 @@
-# Bad License Ideas
-A list of really bad open-source licenses.
+# Bad Licenses
+A compendium of absurd, funny, and downright bad licenses. A table of contents is provided here with titles and a summary of what the license does. Sources, when available, are provided in the descriptions
 
-## Passive-Aggressive License
-Copyright (c) \<year\> \<copyright holders\>
+UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, so long as they don't actually run the Software or attempt to use it.
+* **[Passive-Aggressive License](https://github.com/blackhole12/bad-licenses/blob/master/passive-aggressive-license)**
+  
+  A license that allows you to copy, modify, or distribute the source code or compiled binaries, but doesn't let you run the program.
 
-## Hot Potato License
-All code, documentation, binaries, and data contained in this repository is owned and maintained by whoever committed the last change.
+* **[Non-White-Heterosexual-Male License](https://github.com/blackhole12/bad-licenses/blob/master/Non-White-Heterosexual-Male.md)**
 
-## Alt-Left License
-You are free to use, modify, merge, publish, distribute, sublicense, or sell copies of this software, but only if it's politically correct to do so.
+  A license that lets anyone who isn't a white heterosexual male do whatever they want. Otherwise you have to follow the rules. [Source](https://nonwhiteheterosexualmalelicense.org/)
+  
+* **[Hot Potato License](https://github.com/blackhole12/bad-licenses/blob/master/hot-potato-license)**
 
-## Overwatch License
-Modification of this source code is only allowed if your competitive rank in Overwatch is higher than the maintainer's.
+  Transfers exclusive ownership of the entire project to whoever committed the last change.
+  
+* **[Buena Onda License Agreement](https://github.com/blackhole12/bad-licenses/blob/master/BOLA-License)**
 
-## Furry License
-All commits starting with "OwO what's this?" are automatically merged into master.
+  A license that releases the source code into the public domain, but politely asks you to not do mean things with it. [Source](https://blitiri.com.ar/p/bola/)
+  
+* **[Protected Free To Use Software License](https://github.com/blackhole12/bad-licenses/blob/master/PFTUS-license)**
 
-## Alt-Right License
-You are free to use, modify, merge, publish, distribute, sublicense, or sell copies of this software, but only if it's politically incorrect.
+  A truly bizarre "open-source" license with a litany of baffling restrictions, like not allowing anyone to redistribute binaries, ever, for any reason (except on github, I guess).
+  
+* **[YOLO License](https://github.com/blackhole12/bad-licenses/blob/master/YOLO-LICENSE)**
+
+  420 blaze it ᕕ( ᐛ )ᕗ
+  
+* **Overwatch License**
+
+  Modification of the source code is only allowed if your competitive rank in Overwatch is higher than the maintainer's.
+  
+* **[DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](https://github.com/blackhole12/bad-licenses/blob/master/do-what-the-fuck-you-want-to-license)**
+
+  This license attempts to release the work into the public domain, but also requires that the name be changed, which lands this in extremely questionable legal territory. ¯\\\_(ツ)\_/¯ [Source](http://www.wtfpl.net/)
+  
+* **[LHA License](https://github.com/blackhole12/bad-licenses/blob/master/lha-license)**
+
+  An antiquated license originally in Japanese with many interesting requirements.
+  
+* **[Minecraft Mod Public License](https://github.com/blackhole12/bad-licenses/blob/master/minecraft-mod-license)**
+
+  A license intended for minecraft mods, which, among other things, requires the end-user to own a legal copy of Minecraft. Should not be used on things that aren't minecraft mods (for that matter, probably shouldn't be used at all).
