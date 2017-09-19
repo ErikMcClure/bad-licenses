@@ -27,6 +27,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   420 blaze it ᕕ( ᐛ )ᕗ
   
+* **[JSON License](https://github.com/blackhole12/bad-licenses/blob/master/JSON-License.md)**
+
+  An MIT-style license with a morality clause stating "The Software shall be used for Good, not Evil." Of course, Good and Evil are subjective, so this is legally unenforceable at best, and may or may not allow the author to sue you for any reason. [Source](http://www.json.org/license.html)
+  
 * **Overwatch License**
 
   Modification of the source code is only allowed if your competitive rank in Overwatch is higher than the maintainer's.
