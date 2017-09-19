@@ -21,7 +21,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
   
 * **[DON'T BE A DICK PUBLIC LICENSE](https://github.com/blackhole12/bad-licenses/blob/master/dbad-license.md)**
   
-  Let's you do whatever you want so long as you aren't a dick. Gives several examples of dickish behavior that should be avoided, including "modifying the original work to contain harmful content" without specifying what "harmful" means. [Source](https://github.com/philsturgeon/dbad)
+  Let's you do whatever you want so long as you aren't a dick. Gives several examples of dickish behavior including "modifying the original work to contain harmful content" without specifying what "harmful" means. [Source](https://github.com/philsturgeon/dbad)
   
 * **[Protected Free To Use Software License](https://github.com/blackhole12/bad-licenses/blob/master/PFTUS-license)**
 
