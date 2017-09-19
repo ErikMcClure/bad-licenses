@@ -45,7 +45,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
   
 * **[LHA License](https://github.com/blackhole12/bad-licenses/blob/master/lha-license)**
 
-  An antiquated license originally in Japanese with many interesting requirements.
+  An antiquated license originally in Japanese with bizarre requirements and vague wording.
   
 * **[Minecraft Mod Public License](https://github.com/blackhole12/bad-licenses/blob/master/minecraft-mod-license)**
 
