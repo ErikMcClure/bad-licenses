@@ -50,3 +50,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Minecraft Mod Public License](https://github.com/blackhole12/bad-licenses/blob/master/minecraft-mod-license)**
 
   A license intended for minecraft mods, which, among other things, requires the end-user to own a legal copy of Minecraft. Should not be used on things that aren't minecraft mods (for that matter, probably shouldn't be used at all).
+  
+* **[Anyone But Richard Stallman License](https://github.com/ErikMcClure/bad-licenses/blob/master/ABRMS-license.md)**
+
+  Anyone can do anything they want with the software, except Richard Stallman, who cannot use or redistribute it in any way. [Source](https://github.com/landondyer/kasm/blob/master/LICENSE)
