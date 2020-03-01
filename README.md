@@ -54,3 +54,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Anyone But Richard Stallman License](https://github.com/ErikMcClure/bad-licenses/blob/master/ABRMS-license.md)**
 
   Anyone can do anything they want with the software, except Richard Stallman, who cannot use or redistribute it in any way. [Source](https://github.com/landondyer/kasm/blob/master/LICENSE)
+
+* **[Nice License](https://github.com/ErikMcClure/bad-licenses/blob/master/nice-license)**
+
+  You can only use the software if you properly document your public API. No definition for "negligent" documentation is provided. [Source](https://bitbucket.org/haibison/binn-ir/src/master/LICENSE)
