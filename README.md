@@ -70,3 +70,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[sltar License](https://github.com/ErikMcClure/bad-licenses/blob/master/sltar)**
 
   Using this software requires giving your first child to the author so that they can "immolate it to the devil". [Source](https://github.com/Gottox/sltar/blob/f43d20638774b1f77ef4fa606330126872ae549d/LICENSE)
+
+* **[PEP-401 License](https://github.com/ErikMcClure/bad-licenses/blob/master/PEP-401-license)**
+
+  A joke license created for the 2009 April Fool's day PEP (Python Enhancement Proposal). [Source](https://www.python.org/dev/peps/pep-0401/#copyright)
