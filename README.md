@@ -34,7 +34,11 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[JSON License](https://github.com/blackhole12/bad-licenses/blob/master/JSON-License.md)**
 
   An MIT-style license with a morality clause stating "The Software shall be used for Good, not Evil." Of course, Good and Evil are subjective, so this is legally unenforceable at best, and may or may not allow the author to sue you for any reason. [Source](http://www.json.org/license.html)
-  
+
+* **[Happy Bunny License](https://github.com/ErikMcClure/bad-licenses/blob/master/happy-bunny-license)**
+
+  Another MIT-style ethos license, this time discouraging military use. [Source](https://glm.g-truc.net/copying.txt)
+
 * **Overwatch License**
 
   Modification of the source code is only allowed if your competitive rank in Overwatch is higher than the maintainer's.
@@ -42,6 +46,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE](https://github.com/blackhole12/bad-licenses/blob/master/do-what-the-fuck-you-want-to-license)**
 
   You just DO WHAT THE FUCK YOU WANT TO. [Source](http://www.wtfpl.net/)
+
+* **[THE STRONGEST PUBLIC LICENSE](https://github.com/ErikMcClure/bad-licenses/blob/master/STRONGEST-PUBLIC-LICENSE)**
+
+  Based on the WTFPL, with an additional condition that you "APPRECIATE CIRNO AS THE STRONGEST IN GENSOKYO." [Source](https://github.com/rossy/img2xterm/blob/e24d13686c10c25f79f7a2841d8bb95c5571d261/img2xterm.c#L1-L18) [Discussion](https://github.com/rossy/img2xterm/issues/7)
   
 * **[LHA License](https://github.com/blackhole12/bad-licenses/blob/master/lha-license)**
 
@@ -58,3 +66,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Nice License](https://github.com/ErikMcClure/bad-licenses/blob/master/nice-license)**
 
   You can only use the software if you properly document your public API. No definition for "negligent" documentation is provided. [Source](https://bitbucket.org/haibison/binn-ir/src/master/LICENSE)
+
+* **[sltar License](https://github.com/ErikMcClure/bad-licenses/blob/master/sltar)**
+
+  Using this software requires giving your first child to the author so that they can "immolate it to the devil". [Source](https://github.com/Gottox/sltar/blob/f43d20638774b1f77ef4fa606330126872ae549d/LICENSE)
