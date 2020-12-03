@@ -58,3 +58,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Nice License](https://github.com/ErikMcClure/bad-licenses/blob/master/nice-license)**
 
   You can only use the software if you properly document your public API. No definition for "negligent" documentation is provided. [Source](https://bitbucket.org/haibison/binn-ir/src/master/LICENSE)
+
+  ** [Bantown Public License](https://github.com/ErikMcClure/bad-licenses/blob/master/Bantown-public-license)**
+
+  This license requires you commit criminal acts to use the code.
