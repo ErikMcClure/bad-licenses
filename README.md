@@ -87,6 +87,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A joke license created for the 2009 April Fool's day PEP (Python Enhancement Proposal). [Source](https://www.python.org/dev/peps/pep-0401/#copyright)
 
-* **[Katharos License](https://github.com/ErikMcClure/bad-licenses/blob/master/katharos-license)**
+* **[Katharos License](https://github.com/ErikMcClure/bad-licenses/blob/master/katharos-license.md)**
 
   A license that demands religious "purity" and requires the usage to be "good" as defined by the "full 66 books of the Holy Bible". [Source](https://github.com/katharostech/katharos-license/blob/master/LICENSE_v0.1.0.md)
