@@ -59,6 +59,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   You can only use the software if you properly document your public API. No definition for "negligent" documentation is provided. [Source](https://bitbucket.org/haibison/binn-ir/src/master/LICENSE)
 
+* **[Bantown Public License](https://github.com/ErikMcClure/bad-licenses/blob/master/Bantown-public-license)**
+
+  This license requires you commit criminal acts to use the code.
+
 * **[Do No Harm License](https://github.com/raisely/NoHarm/blob/publish/LICENSE.md)**
 
   A license that claims anyone using the software can't use it for "bad" purposes, and then provides a very questionable list of said "bad" things, which includes "gambling", "nuclear energy", "burning down forests" or "lobbying against peace". Despite providing a clear definition of what "burning down forests" means, no other definitions are provided.
