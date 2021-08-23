@@ -90,3 +90,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Katharos License](https://github.com/ErikMcClure/bad-licenses/blob/master/katharos-license.md)**
 
   A license that demands religious "purity" and requires the usage to be "good" as defined by the "full 66 books of the Holy Bible". [Source](https://github.com/katharostech/katharos-license/blob/master/LICENSE_v0.1.0.md)
+  
+* **[Don't Ask Me About It License](https://github.com/ErikMcClure/bad-licenses/blob/master/dont-ask-me.md)**
+
+  A license that lets anyone do whatever they want, provided they never contact the author about anything covered by the license. [Source](https://github.com/mTvare6/hello-world.rs/blob/master/LICENSE)
