@@ -39,7 +39,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   Another MIT-style ethos license, this time discouraging military use. [Source](https://glm.g-truc.net/copying.txt)
 
-* **Overwatch License**
+* **[Overwatch License](https://github.com/ErikMcClure/bad-licenses/blob/master/overwatch)**
 
   Modification of the source code is only allowed if your competitive rank in Overwatch is higher than the maintainer's.
   
