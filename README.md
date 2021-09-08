@@ -94,3 +94,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Don't Ask Me About It License](https://github.com/ErikMcClure/bad-licenses/blob/master/dont-ask-me.md)**
 
   A license that lets anyone do whatever they want, provided they never contact the author about anything covered by the license. [Source](https://github.com/mTvare6/hello-world.rs/blob/master/LICENSE)
+
+* **[Evil License](https://github.com/ErikMcClure/bad-licenses/blob/master/evil-license)**
+
+  A license that only allows you to use the program for nefarious ends, which it provides some helpful examples of.
