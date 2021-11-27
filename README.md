@@ -98,3 +98,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Evil License](https://github.com/ErikMcClure/bad-licenses/blob/master/evil-license)**
 
   A license that only allows you to use the program for nefarious ends, which it provides some helpful examples of.
+
+* **[THE "Sussy Baka" LICENSE, VERSION 1](https://github.com/ErikMcClure/bad-licenses/blob/master/the-sussy-baka-license)**
+
+  A BSD-style joke license that uses the Advertisement clause from the Orginal BSD License, the software must be used for "Good" and not "Evil" clause from the JSON License, and a non commercial clause. Prevously known as THE "I AM BASED AND NOT SUSSY" LICENSE. [Source](https://github.com/Amog-OS/AmogOS/blob/main/LICENSE)
