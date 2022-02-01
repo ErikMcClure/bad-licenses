@@ -102,3 +102,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[The "Anyone But Some Assholes" license]**(https://github.com/ErikMcClure/bad-licenses/blob/master/anyone-but-some-assholes-license
 
   A license that disallows groups of people the particular author doesn't like from using or redistributing the program.
+
+* **[THE "Sussy Baka" LICENSE, VERSION 1](https://github.com/ErikMcClure/bad-licenses/blob/master/the-sussy-baka-license)**
+
+  A BSD-style license that uses the Advertisement clause from the Original 4-clause BSD License, the "Software must be used for Good and not Evil" clause from the JSON License, and a non-commercial clause. Prevously known as THE "I AM BASED AND NOT SUSSY" LICENSE. [Source](https://github.com/Amog-OS/AmogOS/blob/main/LICENSE)
