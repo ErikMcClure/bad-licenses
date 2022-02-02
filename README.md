@@ -99,7 +99,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A license that only allows you to use the program for nefarious ends, which it provides some helpful examples of.
   
-* **[The "Anyone But Some Assholes" license]**(https://github.com/ErikMcClure/bad-licenses/blob/master/anyone-but-some-assholes-license
+* **[The "Anyone But Some Assholes" license](https://github.com/ErikMcClure/bad-licenses/blob/master/anyone-but-some-assholes-license)**
 
   A license that disallows groups of people the particular author doesn't like from using or redistributing the program.
 
