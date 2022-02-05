@@ -105,4 +105,4 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
 * **[THE "LITTLE SUS DISTRO" (LSD) LICENSE, VERSION 1](https://github.com/ErikMcClure/bad-licenses/blob/master/lsd-license)**
 
-  A BSD-style parody license based on the Original 4-clause BSD License with a terrible acronym. The provious variation of the license used the "Software must be used for Good and not Evil" clause from the JSON License, and a non-commercial clause. Prevously known as `THE "I AM BASED AND NOT SUSSY" LICENSE` and the `THE "Sussy Baka" LICENSE, VERSION 1`. [Source](https://github.com/Amog-OS/AmogOS/blob/main/LICENSE)
+  A BSD-style parody license based on the Original 4-clause BSD License with a terrible acronym. The previous variation of the license used the "Software must be used for Good and not Evil" clause from the JSON License, and a non-commercial clause. Prevously known as `THE "I AM BASED AND NOT SUSSY" LICENSE` and the `THE "Sussy Baka" LICENSE, VERSION 1`. [Source](https://github.com/Amog-OS/AmogOS/blob/main/LICENSE)
