@@ -1,0 +1,75 @@
+This file summarizes below the general simh license (indented) which is 
+essentially stated at the top of all source code files with the respective 
+authors mentioned there.  Pay particular attention to the paragraphs 
+(beyond the indented section) which add some specific constraints.
+
+   Copyright (c) 1993-2022, Robert M Supnik, Mark Pizzolato and others
+
+   Permission is hereby granted, free of charge, to any person obtaining a
+   copy of this software and associated documentation files (the "Software"),
+   to deal in the Software without restriction, including without limitation
+   the rights to use, copy, modify, merge, publish, distribute, sublicense,
+   and/or sell copies of the Software, and to permit persons to whom the
+   Software is furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+   ROBERT M SUPNIK, MARK PIZZOLATO OR OTHERS BE LIABLE FOR ANY CLAIM, DAMAGES 
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+   OTHER DEALINGS IN THE SOFTWARE.
+
+   Except as contained in this notice, the name of Robert M Supnik, Mark 
+   Pizzolato or anyone else shall not be used in advertising or otherwise to 
+   promote the sale, use or other dealings in this Software without prior 
+   written authorization from all those parties.
+
+
+Additionally, the following restrictions on the use of this software apply
+and, where applicable, thereby override the "without limitation" clause 
+above or in each relevant source code module.
+
+Any use of this codebase that changes the code to influence the behavior of 
+the disk access activities provided by sim_disk.c and scp.c is free to do 
+that as long as anyone doing this is explicitly not licensed to any subsequent 
+changes to any part of the codebase in the master branch of the git repository
+(https://github.com/simh/simh) made by Mark Pizzolato after the LICENSE.txt 
+was added to the master branch of repository. Changes that qualify for this 
+restriction at least include: changing the behavior or default of 
+SET AUTOSIZE/NOAUTOSIZE, or any code in scp.c and sim_disk.c or any simulator 
+components that use the sim_disk routines.
+
+All changes to the codebase in the master branch of the 
+https://github.com/simh/simh repository made by Mark Pizzolato after the 
+inclusion of the first version of this LICENSE.txt file in that branch of the
+repository will be not be licensed for use by anyone making any of the above 
+mentioned sim_disk/autosize related changes.
+
+There are three potential categories of users who may need clarification 
+when interpreting the above license wording:
+
+Group 1: Any person who uses completely unmodified code from the master 
+         branch of the repository is licensed to use all of "Mark Pizzolato's 
+         future changes".
+Group 2: Any person using a simulator that has no devices which use sim_disk
+         and that doesn't modify scp.c is licensed to use all of "Mark 
+         Pizzolato's future changes".
+Group 3: Any person who finds it desireable to change the AUTOSIZE 
+         functionality of scp.c or any aspect of the sim_disk.c is NOT 
+         licensed for any of "Mark Pizzolato's future changes".
+
+Note: Mark Pizzolato's future changes are commits made to the master branch
+      of the https://github.com/simh/simh repository authored by Mark 
+      Pizzolato after the first version of this LICENSE.txt was added to 
+      the master branch of the repository.
+
+For many years, there exist some binary files in the repository which may 
+not have formal copyright releases from the original copyright holders and 
+therefore those are certainly not granted a license by this LICENSE.txt file.
+
+Upon specific request by the copyright holder any such unlicensed files will 
+be removed.
