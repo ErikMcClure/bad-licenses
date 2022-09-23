@@ -110,3 +110,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[MRMO-Halftone license](https://github.com/ErikMcClure/bad-licenses/blob/master/mrmo-halftone-license)**
 
   A two-tiered license which allows only non-commercial and commercial use respectively, but "excluding those relating to or containing non-fungible tokens ("NFT") or blockchain-related projects" in either tier. [Source](https://mrmotarius.itch.io/mrmo-halftone)
+  
+* **[general-simh-license](https://github.com/ErikMcClure/bad-licenses/blob/master/general-simh-license)**
+
+  An MIT derivative license the contradicts it's own "no restrictions" clause by saying that if you modify one of two specific source files, you are no longer eligible to use any future contributions to the repository. It is unclear how this would legally work in situations where people have forked the original repository.
