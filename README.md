@@ -114,3 +114,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[general-simh-license](https://github.com/ErikMcClure/bad-licenses/blob/master/general-simh-license)**
 
   An MIT derivative license the contradicts it's own "no restrictions" clause by saying that if you modify one of two specific source files, you are no longer eligible to use any future contributions to the repository. It is unclear how this would legally work in situations where people have forked the original repository.
+
+* **[UwU GPL3](https://github.com/ErikMcClure/bad-licenses/blob/master/UWU-GPLv3.md)**
+
+  An UwUified GPL3 license.
