@@ -111,6 +111,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A two-tiered license which allows only non-commercial and commercial use respectively, but "excluding those relating to or containing non-fungible tokens ("NFT") or blockchain-related projects" in either tier. [Source](https://mrmotarius.itch.io/mrmo-halftone)
   
+* **[The Universal Forfeit License (UFL)](https://github.com/ErikMcClure/bad-licenses/blob/master/ufl-license)**
+
+  A license that grants more rights to the user than possible, which isn't possible. [Source](http://geekwagon.net/ufl/license.txt)
+  
 * **[general-simh-license](https://github.com/ErikMcClure/bad-licenses/blob/master/general-simh-license)**
 
   An MIT derivative license the contradicts it's own "no restrictions" clause by saying that if you modify one of two specific source files, you are no longer eligible to use any future contributions to the repository. It is unclear how this would legally work in situations where people have forked the original repository.
