@@ -114,3 +114,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[general-simh-license](https://github.com/ErikMcClure/bad-licenses/blob/master/general-simh-license)**
 
   An MIT derivative license the contradicts it's own "no restrictions" clause by saying that if you modify one of two specific source files, you are no longer eligible to use any future contributions to the repository. It is unclear how this would legally work in situations where people have forked the original repository.
+
+* **[The Satania Daiakuma License](https://github.com/ErikMcClure/bad-licenses/blob/master/Satania-Daiakuma-License)**
+
+  An MIT derivative license that forbids promotion of "any characters from the anime Gabriel Dropout in any way except Satania". [Source](https://github.com/Pizzacus/satania.moe/blob/master/LICENSE.md)
