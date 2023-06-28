@@ -118,3 +118,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[The Satania Daiakuma License](Satania-Daiakuma-License)**
 
   An MIT derivative license that forbids promotion of "any characters from the anime Gabriel Dropout in any way except Satania". [Source](https://github.com/Pizzacus/satania.moe/blob/master/LICENSE.md)
+
+ * **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
+
+  A WTFPL derivation license which combines aspects of WTFPL, YOLO, THE STRONGEST PUBLIC LICENSE, and a clause saying one guy the author really hates is not allowed to use the software at all. [Source](https://github.com/SantX27/yu-topy/blob/master/LICENSE)
