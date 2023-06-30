@@ -122,3 +122,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
 
   A WTFPL derivation license which combines aspects of WTFPL, YOLO, THE STRONGEST PUBLIC LICENSE, and a clause saying one guy the author really hates is not allowed to use the software at all. [Source](https://github.com/SantX27/yu-topy/blob/master/LICENSE)
+
+* **[The Stupid License](stupid-license)**
+
+  A license created to be illegal to distribute any software applied to the license, requiring piracy as part of the terms of the license. [Source](https://github.com/Brahillms/stupid-license/blob/main/LICENSE)
