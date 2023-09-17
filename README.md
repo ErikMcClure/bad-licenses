@@ -122,3 +122,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
 
   A WTFPL derivation license which combines aspects of WTFPL, YOLO, THE STRONGEST PUBLIC LICENSE, and a clause saying one guy the author really hates is not allowed to use the software at all. [Source](https://github.com/SantX27/yu-topy/blob/master/LICENSE)
+
+* **[For Good Eyes Only Licence v0.2](for-good-eyes-only-licence-0.2.md)**
+
+  Another "don't be unethical" license, which does an impressive job at legally defining exactly what "unethical" means. Unfortunately, while this is better than the JSON license, most programmers don't want to track if a country's score in the Reporters Without Borders “Press Freedom Index” is worse than 40. [Source](https://forgoodeyesonly.eu/)
