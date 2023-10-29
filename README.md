@@ -128,4 +128,5 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
   Another "don't be unethical" license, which does an impressive job at legally defining exactly what "unethical" means. Unfortunately, while this is better than the JSON license, most programmers don't want to track if a country's score in the Reporters Without Borders “Press Freedom Index” is worse than 40. [Source](https://forgoodeyesonly.eu/)
 
 * **[wg-easy license](wg-easy-license.md)**
+
   Only allows modifying the software if you publish your changes as a linked fork **specifically** on GitHub. [Source](https://github.com/wg-easy/wg-easy/blob/master/LICENSE.md)
