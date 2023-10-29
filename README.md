@@ -126,3 +126,5 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[For Good Eyes Only Licence v0.2](for-good-eyes-only-licence-0.2.md)**
 
   Another "don't be unethical" license, which does an impressive job at legally defining exactly what "unethical" means. Unfortunately, while this is better than the JSON license, most programmers don't want to track if a country's score in the Reporters Without Borders “Press Freedom Index” is worse than 40. [Source](https://forgoodeyesonly.eu/)
+* **[wg-easy license](wg-easy-license.md)**
+  Only allows modifying the software if you publish your changes as a linked fork **specifically** on GitHub
