@@ -127,6 +127,11 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   Another "don't be unethical" license, which does an impressive job at legally defining exactly what "unethical" means. Unfortunately, while this is better than the JSON license, most programmers don't want to track if a country's score in the Reporters Without Borders “Press Freedom Index” is worse than 40. [Source](https://forgoodeyesonly.eu/)
 
+* **[wg-easy license](wg-easy-license.md)**
+
+  Only allows modifying the software if you publish your changes as a linked fork **specifically** on GitHub. What happens if GitHub goes down? What happens if GitHub decides to make itself unavailable in your country? Who knows! [Source](https://github.com/wg-easy/wg-easy/blob/master/LICENSE.md)
+
 * **[Fuck Your License](fuck-your-license)**
 
   A license that disallows anything to do with the software or its source code, viewing included. Additionally, the software doesn't exist. It's a figment of your imagination. [Source](https://github.com/brianmcfadden/whoisAddressBarInterpreter/blob/97fa311681218e064c7a77fe4feafd22ccab4589/LICENSE)
+
