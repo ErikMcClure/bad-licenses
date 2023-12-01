@@ -126,3 +126,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[For Good Eyes Only Licence v0.2](for-good-eyes-only-licence-0.2.md)**
 
   Another "don't be unethical" license, which does an impressive job at legally defining exactly what "unethical" means. Unfortunately, while this is better than the JSON license, most programmers don't want to track if a country's score in the Reporters Without Borders “Press Freedom Index” is worse than 40. [Source](https://forgoodeyesonly.eu/)
+
+* **[Fuck Your License](fuck-your-license)**
+
+  A license that disallows anything to do with the software or its source code, viewing included. Additionally, the software doesn't exist. It's a figment of your imagination. [Source](https://github.com/brianmcfadden/whoisAddressBarInterpreter/blob/97fa311681218e064c7a77fe4feafd22ccab4589/LICENSE)
