@@ -139,6 +139,6 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   An "open-source" software license that is not actually open-source or intended for software, created instead to protect an asset library. Uses informal language and has inconsistent rules about who can use the library, including saying that nobody working for any government in any capacity can use the library, even for their own personal use. Also says it can't be used for AI without defining what AI means (what about video game AI?)
 
-* **[I HATE AI LICENSE](i-hate-ai-license)
+* **[I HATE AI LICENSE](i-hate-ai-license)**
 
   A non-software license similar to the Creative Commons that bans all use of the content in "AI technologies", giving an extremely broad definition of AI that would include things like video game AI or simple image recognition algorithms. [Source](https://ihateailicense.eu/)
