@@ -135,3 +135,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A license that disallows anything to do with the software or its source code, viewing included. Additionally, the software doesn't exist. It's a figment of your imagination. [Source](https://github.com/brianmcfadden/whoisAddressBarInterpreter/blob/97fa311681218e064c7a77fe4feafd22ccab4589/LICENSE)
 
+* **[Black Open Source Software License v1.0](Black-Open-Source-Software-License)**
+
+  An "open-source" software license that is not actually open-source or intended for software, created instead to protect an asset library. Uses informal language and has inconsistent rules about who can use the library, including saying that nobody working for any government in any capacity can use the library, even for their own personal use. Also says it can't be used for AI without defining what AI means (what about video game AI?)
+
+* **[I HATE AI LICENSE](i-hate-ai-license)
+
+  A non-software license similar to the Creative Commons that bans all use of the content in "AI technologies", giving an extremely broad definition of AI that would include things like video game AI or simple image recognition algorithms. [Source](https://ihateailicense.eu/)
