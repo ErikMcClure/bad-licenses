@@ -142,3 +142,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[I HATE AI LICENSE](i-hate-ai-license)**
 
   A non-software license similar to the Creative Commons that bans all use of the content in "AI technologies", giving an extremely broad definition of AI that would include things like video game AI or simple image recognition algorithms. [Source](https://ihateailicense.eu/)
+
+* **[Nuclear Waste Software License](NWSL)**
+
+  A possibly MIT-like license for software that is neither a place of honor, nor in commemoration of a highly esteemed deed, etc. [Source](https://gist.github.com/DavidBuchanan314/35cb9f8a2f754b9a03a74bed19575661)
