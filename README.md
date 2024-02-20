@@ -77,7 +77,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
   
 * **[Be Gay Do Crimes License](be-gay-do-crimes-license)**
 
-  You have to be gay and do crimes to use this software. [Source](https://github.com/Xe/waifud/blob/main/LICENSE)
+  You have to be gay and do crimes to use this software. [Source](https://github.com/Xe/waifud/blob/44634db21cc3dee925c79b328c60d1962d3bca9c/LICENSE)
 
 * **[sltar License](sltar)**
 
