@@ -146,3 +146,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Nuclear Waste Software License](NWSL)**
 
   A possibly MIT-like license for software that is neither a place of honor, nor in commemoration of a highly esteemed deed, etc. [Source](https://gist.github.com/DavidBuchanan314/35cb9f8a2f754b9a03a74bed19575661)
+
+* **[OTTer license](OTTer-license)**
+  
+  A license used for the XKCD inspired sandcastle builder game. [Source](https://github.com/eternaldensity/Sandcastle-Builder/blob/gh-pages/LICENSE)
