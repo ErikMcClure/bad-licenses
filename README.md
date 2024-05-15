@@ -147,6 +147,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   A possibly MIT-like license for software that is neither a place of honor, nor in commemoration of a highly esteemed deed, etc. [Source](https://gist.github.com/DavidBuchanan314/35cb9f8a2f754b9a03a74bed19575661)
 
+* **[Opinionated Queer License](opinionated-queer-license.md)**
+
+  Another license with vague requirements for not allowing anyone to use it for racist or bigoted purposes (who is deciding what counts as racist for the purpose of this license?), but gets bonus points for prohibiting any sale of the software or derivative works unless "substantial changes to the Work" are made, which explicitly violates the OSI open-source license standard.
+
 * **[OTTer license](OTTer-license)**
   
   A license used for the XKCD inspired sandcastle builder game. [Source](https://github.com/eternaldensity/Sandcastle-Builder/blob/gh-pages/LICENSE)
