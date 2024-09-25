@@ -154,3 +154,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[OTTer license](OTTer-license)**
   
   A license used for the XKCD inspired sandcastle builder game. [Source](https://github.com/eternaldensity/Sandcastle-Builder/blob/gh-pages/LICENSE)
+
+* **[Winamp Collaborative License](winamp.md)**
+
+  A "source-available" license that says you can't fork the project, which means it is illegal to click the fork button on GitHub (???), and also makes it impossible to create any pull requests without push access to the original repo. [Source](https://github.com/WinampDesktop/winamp/blob/community/LICENSE.md)
