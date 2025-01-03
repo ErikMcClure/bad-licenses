@@ -158,3 +158,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Winamp Collaborative License](winamp.md)**
 
   A "source-available" license that says you can't fork the project, which means it is illegal to click the fork button on GitHub (which is [a violation of the GitHub ToS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#choosing-the-right-license)) and also makes it impossible to create any pull requests without push access to the original repo. [Source](https://github.com/WinampDesktop/winamp/blob/community/LICENSE.md)
+
+* **[Monkey License](monkey-license)**
+
+  Nobody has permission to use this tool for any purpose. Don't use it. [Source](https://github.com/bouk/monkey/blob/master/LICENSE.md)
