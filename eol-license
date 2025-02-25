@@ -1,0 +1,264 @@
+# Ethical Open License 1.0
+
+## Preamble
+This License promotes the open sharing of software while safeguarding against unethical exploitation, including unauthorized use in training artificial intelligence models and harmful commercial practices. By using, modifying, or distributing the Software, you agree to these terms.
+
+The Ethical Open License is designed to ensure that software remains free and open while preventing its use in ways that harm individuals, communities, or the environment. It builds on the principles of existing open-source licenses but adds specific provisions to address modern challenges, such as AI training and ethical misuse.
+
+---
+
+## 1. Definitions
+
+- **"Software"**: The original work of authorship made available under this License, including source code, object code, and any modifications or derivatives.
+- **"AI Model"**: Any artificial intelligence or machine learning system, including large language models, that uses the Software, in whole or in part, for training, fine-tuning, or inference.
+- **"Commercial Exploitation"**: Any activity that directly generates revenue from the Software or its derivatives without complying with the obligations set forth herein.
+- **"Violation"**: Any use of the Software that breaches any section of this License.
+- **"Substantial Portions"**: Use of the Software that includes more than 5% of its lines of code (excluding dependencies) or any module critical to its core functionality.
+- **"Derivative Work"**: A work based on the Software, including modifications, adaptations, or integrations that require copyright permission.
+- **"Network Server Use"**: Use of the Software in a publicly accessible server or service, where users interact with it remotely.
+- **"Ethical Standards"**: Principles outlined in the Independent Ethics Review Board (IERB) Guidelines, including prohibitions on mass surveillance, warfare, and discrimination.
+
+---
+
+## 2. Grant of Rights
+
+### 2.1 Basic Permissions
+Subject to the terms and conditions of this License, you are granted a worldwide, royalty-free, non-exclusive license to:  
+- **Use** the Software for any purpose, including privately or commercially.  
+- **Modify** the Software to create derivative works.  
+- **Distribute** the Software or derivative works, either in source or object code form.  
+
+These rights are irrevocable for the duration of the Software’s copyright, provided you comply with all obligations in this License and the Ethical Use Agreement (Appendix A).  
+
+### 2.2 Ethical and AI Restrictions
+The rights granted above are conditional on the following:  
+- You **may not** use the Software in ways prohibited by the Ethical Use Agreement (e.g., mass surveillance, warfare, discrimination).  
+- You **may not** train AI Models with the Software or its derivatives without explicit prior written permission (see Section 4).  
+- Derivative works must be licensed under this License **or** comply with the Fair Monetization terms (Section 5).  
+
+### 2.3 Scope of Distribution
+When conveying the Software or derivative works:  
+- You must provide recipients with the **Complete Corresponding Source** (defined in Section 3.1) under this License.  
+- You must retain all copyright, patent, and attribution notices.  
+- You must ensure recipients receive a copy of this License and the Ethical Use Agreement (Appendix A).  
+
+### 2.4 Network Server Use
+If the Software is used in a network-accessible service (e.g., SaaS), you must:  
+- Make the **Complete Corresponding Source** of the modified version available to all users of the service.  
+- Provide clear instructions on how to access the source code (e.g., a public repository link).  
+
+---
+
+## 3. Obligations
+
+### 3.1 Attribution  
+You must ensure all redistributions or derivative works of the Software include:  
+- **Prominent attribution** to the original authors in:  
+  - The Software’s source code (e.g., a `NOTICE` file or header comment).  
+  - Documentation (if distributed).  
+  - User interfaces (if applicable).  
+- A link to the original Software repository or license text.  
+
+### 3.2 Derivative Works  
+- **Open-Source Requirement**: If you distribute a derivative work, it must be licensed under this License **unless**:  
+  - You pay royalties under Section 5.1 (Fair Monetization).  
+  - The derivative work qualifies as an "aggregate" (see Section 3.4).  
+- **Notification**: Derivatives must include a clear statement of modifications (e.g., a `CHANGELOG` file).  
+
+### 3.3 Source Code Availability  
+- **Complete Corresponding Source**: When distributing the Software or derivatives in object code form, you must provide recipients with:  
+  - All source code, build scripts, and documentation necessary to generate, install, and run the work.  
+  - Access to the source code for at least three years (e.g., via a public repository).  
+- **Network Services**: If the Software is used in a network-accessible service (e.g., SaaS), you must:  
+  - Offer the Complete Corresponding Source to all users of the service.  
+  - Display a visible "Source Code" link in the service’s interface.  
+
+### 3.4 Ethical Compliance  
+- You may not use the Software for activities prohibited by the **Ethical Use Agreement** (Appendix A), including:  
+  - Mass surveillance, warfare, or discrimination.  
+  - Unauthorized AI training (see Section 4).  
+- Suspected violations will be reviewed by the Independent Ethics Review Board (IERB) under the process defined in the [IERB Guidelines](IERB_GUIDELINES.md).  
+
+### 3.5 AI Usage Compliance  
+If granted permission to use the Software for AI training (Section 4.1):  
+- **Training Data Report**: Upon request, provide documentation detailing:  
+  - Datasets used (including portions derived from the Software).  
+  - Preprocessing methods and model architecture.  
+- **Attribution**: AI-generated outputs (e.g., code, text) must include a notice referencing the Software’s contribution.  
+
+### 3.6 Audit & Reporting  
+- **Financial Audits**: Commercial users must retain financial records for five years and provide them to the licensor upon request.  
+- **AI Audits**: AI users must cooperate with audits to verify compliance with training restrictions.  
+- **Non-Compliance**: Failure to comply with audit requests constitutes a material breach (see Section 7: Termination).  
+
+### 3.7 Aggregates  
+- **Definition**: A compilation of the Software with unrelated third-party works is an "aggregate" if:  
+  - The aggregate does not limit users’ rights beyond what individual licenses permit.  
+  - The Software’s functionality remains separable.  
+- **Exemption**: Aggregates are exempt from the open-source requirement in Section 3.2.  
+
+---
+
+## 4. AI Restrictions
+
+### 4.1 Prohibited AI Training  
+You **may not** use the Software (including "Substantial Portions" as defined in Section 1) to train, fine-tune, or otherwise develop any AI Model, unless:  
+- You obtain **prior written permission** from the original authors.  
+- The use qualifies for an exemption under Section 4.2 (Permitted Uses).  
+
+This prohibition applies to:  
+- Training AI Models from scratch using the Software.  
+- Fine-tuning or adapting existing AI Models using the Software.  
+- Using the Software as part of synthetic data generation for AI training.  
+
+### 4.2 Permitted Uses  
+The following AI-related activities are exempt from Section 4.1:  
+- **De minimis Use**: Training on code snippets or data derived from the Software that constitutes **<1% of the total training dataset**.  
+- **Research**: Academic or non-commercial research conducted under an institutional review board (IRB) or ethics committee.  
+- **Public Domain Content**: Use of the Software if it has been explicitly released into the public domain.  
+
+### 4.3 Compliance & Documentation  
+If granted permission for AI training (Section 4.1):  
+- **Training Data Report**: Upon request, provide documentation detailing:  
+  - The portion of the Software used in training (e.g., code snippets, datasets).  
+  - Preprocessing steps applied to the Software.  
+  - Model architecture and intended use cases.  
+- **Audit Cooperation**: Allow the licensor or a neutral third party to audit training processes for compliance.  
+
+### 4.4 AI-Assisted Development  
+If the Software is used in AI-assisted development tools (e.g., code generators):  
+- **Attribution**: Outputs generated by the tool must include a notice stating:  
+  > "This work was created with assistance from [Software Name], licensed under the Ethical Open License (EOL)."  
+- **Copyleft**: Any derivative code generated by the tool must be licensed under this License unless royalties are paid (Section 5).  
+
+### 4.5 Penalties for Non-Compliance  
+Unauthorized AI training constitutes a **material breach** of this License and triggers:  
+- Immediate termination of rights (Section 7).  
+- A penalty fee of **5% of annual gross revenue** from the infringing AI Model (Section 5.2).  
+- Public disclosure of the violation (per IERB Guidelines).  
+
+### 4.6 Third-Party AI Services  
+You may not circumvent these restrictions by:  
+- Using the Software via third-party AI APIs or platforms.  
+- Outsourcing AI training to external vendors without ensuring their compliance.  
+---
+
+## 5. Monetization & Royalties
+
+### 5.1 Commercial Exploitation Requirements
+You may commercially exploit the Software or derivative works **only if**:  
+- **Option 1**: You release the derivative work under this License (copyleft).  
+- **Option 2**: You pay royalties (see Section 5.2) and comply with audit requirements.  
+
+**Commercial Exploitation** includes:  
+- Selling the Software or derivatives (e.g., SaaS, proprietary software).  
+- Using the Software in revenue-generating products where it constitutes **>30% of core functionality** (by code contribution or development time).  
+
+### 5.2 Royalty Structure  
+Royalties are calculated as a percentage of **annual gross revenue directly attributable to the Software or derivative work**:  
+
+| Annual Gross Revenue | Royalty Rate |  
+|-----------------------|--------------|  
+| < $1,000,000          | 0%           |  
+| $1,000,000 – $5,000,000 | 1%         |  
+| > $5,000,000          | 2%           |  
+
+- **Revenue Attribution**: Calculated using:  
+  - Customer usage metrics.  
+  - Third-party audits.  
+  - Good-faith estimates if exact metrics are unavailable.  
+
+### 5.3 AI Training Penalty  
+Unauthorized AI training (Section 4) incurs:  
+- **Penalty Fee**: 5% of the **annual gross revenue** of the AI Model found to have used the Software.  
+- **Liability**: Applies to both direct violators and third parties knowingly facilitating the violation.  
+
+### 5.4 Audit & Compliance  
+- **Financial Audits**: Licensors may request audited financial records annually to verify royalty calculations.  
+- **Third-Party Auditors**: Disputes are resolved by a neutral auditor agreed upon by both parties.  
+- **Non-Compliance**: Failure to cooperate with audits triggers immediate termination (Section 7) and penalties.  
+
+### 5.5 Payment Terms  
+- **Reporting**: Submit royalty reports annually within 60 days of fiscal year-end.  
+- **Payment**: Due within 30 days of report submission.  
+- **Late Fees**: 1.5% monthly interest on overdue amounts.  
+
+### 5.6 Exemptions  
+No royalties apply for:  
+- **Non-Profit Use**: Charities, academic institutions, or public-benefit projects.  
+- **De Minimis Revenue**: Commercial use generating < $100,000 annually.  
+
+### 5.7 Anti-Circumvention  
+You may not evade royalties by:  
+- Structuring revenue through subsidiaries or intermediaries.  
+- Fragmenting the Software’s functionality across multiple products.  
+
+---
+
+## 6. Ethical Use Provisions  
+The Software shall not be used in violation of the ethical standards defined in **Appendix A**. Key prohibitions include:  
+- Mass surveillance, warfare, or oppressive regime actions.  
+- Discrimination, hate speech, or unethical AI practices.  
+- **Enforcement**: Suspected violations are reviewed by the IERB within **60 days** (see Appendix A).  
+
+---
+
+## 7. Termination  
+- **Cure Period**: Violators receive **30 days to cure breaches** (e.g., remove infringing code, pay owed fees).  
+- **Permanent Termination**: Repeat offenders lose rights permanently.  
+
+---
+
+## 8. Audit & Compliance  
+- **Frequency**: Audits are limited to **once annually**.  
+- **Neutral Third Party**: Conducted by an auditor agreed upon by both parties.  
+- **Confidentiality**: Proprietary data may be redacted in reports.  
+
+---
+
+## 9. Governing Law & Disputes  
+- **Jurisdiction**: Disputes resolved under Swiss law.  
+- **Arbitration**: Binding arbitration in Zürich (UNCITRAL rules).  
+
+---
+
+## 10. Amendments  
+- **Notice**: Changes require **60 days’ notice**.  
+- **Approval**: Majority approval from users with **>1,000 GitHub stars** or significant contributions.  
+
+---
+
+## Appendix A: Ethical Use Agreement  
+
+### A1. Prohibited Uses  
+The Software shall not be used for:  
+- **Mass Surveillance**: Systematic monitoring without consent (e.g., facial recognition for oppression).  
+- **Warfare or Oppressive Regimes**: Integration into weapons systems or tools enabling human rights abuses.  
+- **Discrimination/Hate Speech**: Amplifying bias against protected groups (race, religion, gender, etc.).  
+
+### A2. Independent Ethics Review Board (IERB)  
+- **Role**: Interpret guidelines, review violations, and issue rulings.  
+- **Appeals**: Formal arbitration in Switzerland (see Section 9).  
+
+### A3. Compliance  
+- Violations constitute a **material breach** of this License (Section 7).  
+
+---
+
+## Disclaimer of Warranty  
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+
+---
+
+## Limitation of Liability  
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE.  
+
+---
+
+## Severability  
+If any provision is unenforceable, the remainder remains valid.  
+
+--- 
+---
+
+*End of Ethical Open License 1.0*

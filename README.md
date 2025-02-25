@@ -162,3 +162,8 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Monkey License](monkey-license)**
 
   Nobody has permission to use this tool for any purpose. Don't use it. [Source](https://github.com/bouk/monkey/blob/master/LICENSE.md)
+  
+* **[Ethical Open License (EOL)](./eol-license)**  
+
+  Prohibits "unethical" use cases, as determined by a [fictional ethics review board](./eol-ierb-guidelines.md). [Source](https://tim.kicker.dev/2025/02/24/eol/)  
+
