@@ -166,3 +166,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[The Curse of Knowledge License](curse-of-knowledge)**
 
   You are allowed to use the licensed material so long as you don't know that you are allowed to use the licensed material.
+
+* **[GREENWARE License](GREENWARE-license)** [Source](https://github.com/justdanpo/c--sphinx/blob/784d8f6b8c6bb90997c779e4b5edf5bb8d5d7243/cmm_cellik_1996/readme.doc#L108)
+
+  A strange psuedo-license that doesn't specify any terms other than "make an everyday effort to help out with the environment". Being from 1996, it doesn't follow any modern license conventions, and is noted here mostly for historical significance.
