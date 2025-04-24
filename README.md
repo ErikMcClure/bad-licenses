@@ -162,3 +162,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 * **[Monkey License](monkey-license)**
 
   Nobody has permission to use this tool for any purpose. Don't use it. [Source](https://github.com/bouk/monkey/blob/master/LICENSE.md)
+
+* **[The Curse of Knowledge License](curse-of-knowledge)**
+
+  You are allowed to use the licensed material so long as you don't know that you are allowed to use the licensed material.
