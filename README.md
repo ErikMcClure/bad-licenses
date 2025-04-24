@@ -167,10 +167,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   You are allowed to use the licensed material so long as you don't know that you are allowed to use the licensed material.
 
-* **[GREENWARE License](GREENWARE-license)** [Source](https://github.com/justdanpo/c--sphinx/blob/784d8f6b8c6bb90997c779e4b5edf5bb8d5d7243/cmm_cellik_1996/readme.doc#L108)
+* **[GREENWARE License](GREENWARE-license)**
 
-  A strange psuedo-license that doesn't specify any terms other than "make an everyday effort to help out with the environment". Being from 1996, it doesn't follow any modern license conventions, and is noted here mostly for historical significance.
+  A strange psuedo-license that doesn't specify any terms other than "make an everyday effort to help out with the environment". Being from 1996, it doesn't follow any modern license conventions, and is noted here mostly for historical significance. [Source](https://github.com/justdanpo/c--sphinx/blob/784d8f6b8c6bb90997c779e4b5edf5bb8d5d7243/cmm_cellik_1996/readme.doc#L108)
 
-* **[Gumroad Community License 1.0](gumroad-license.md)** [Source](https://github.com/antiwork/gumroad/blob/main/LICENSE.md)
+* **[Gumroad Community License 1.0](gumroad-license.md)**
 
-  A "source-available" license that doesn't let you use the software if you make too much money with it. Because the patent protection clause is *also* terminated when you make too much money, you can suddenly become liable for violating patents at any time, and gumroad can now extort you into agreeing to "alternative license terms".
+  A "source-available" license that doesn't let you use the software if you make too much money with it. Because the patent protection clause is *also* terminated when you make too much money, you can suddenly become liable for violating patents at any time, and gumroad can now extort you into agreeing to "alternative license terms". [Source](https://github.com/antiwork/gumroad/blob/main/LICENSE.md)
