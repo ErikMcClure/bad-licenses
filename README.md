@@ -177,5 +177,5 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
 - **[Psi License](psi_license.md)**
 
-  A "license" for a Minecraft mod that doesn't even claim to be enforceable (stating that if you violate it you'd be a "jerk" and "you don't want to be a jerk, do you?"). It claims to be open source, but at the same time does not allow commercial use, and even disallows modification for some parts of the software (the "Psi API"). Supposedly allows redistribution under "similar" copyleft terms, whatever that means.
+  A "license" for a Minecraft mod that doesn't even claim to be enforceable (stating that if you violate it you'd be a "jerk" and "you don't want to be a jerk, do you?"). It claims to be open source, but at the same time does not allow commercial use, and even disallows modification for some parts of the software (the "Psi API"). Supposedly allows redistribution under "similar" copyleft terms, whatever that means. [Source](https://psi.vazkii.net/license.php)
   
