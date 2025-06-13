@@ -178,4 +178,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[Psi License](psi_license.md)**
 
   A "reasonably open" license that isn't actually open-source due to a non-commercial distribution restriction and a restriction on modifying parts of the API, but at the same time the license requires any modified versions to be released under an open-source license, which by definition would have to be a different license that's actually open-source! [Source](https://psi.vazkii.net/license.php)
-  
+
+- **[BATL License](BATL-license)**
+
+    A "vibe-driven" license that essentially says "do what you want, but good luck." If you encounter issues or digital gremlins, the primary recourse is to "better ask the LLM." Offers no warranties and a hearty "who knows?" on intellectual property and secret family recipes.
