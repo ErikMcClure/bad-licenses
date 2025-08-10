@@ -182,3 +182,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[BATL License](BATL-license)**
 
     A "vibe-driven" license that essentially says "do what you want, but good luck." If you encounter issues or digital gremlins, the primary recourse is to "better ask the LLM." Offers no warranties and a hearty "who knows?" on intellectual property and secret family recipes.
+
+- **[Don't Be A Jerk License](dbaj-license.md)**
+
+    An "open-source" license that doesn't let you redistribute the code or "distribute code which contains 50% or more Functionally Equivalent Statements* from this repository." Originally used by some legacy minecraft mods, it's not clear if it's actually possible to legally use this code at all.
