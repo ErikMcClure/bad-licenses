@@ -186,3 +186,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[GO FUCK YOURSELF PRIVATE LICENSE](GFYSPL)**
 
     Basically just ARR but requiring you to say "Go fuck yourself" to the licensee within 3 meters. You are also not allowed to look at the license, and if you do, refer back to the first part of this description.
+
+- **[Don't Be A Jerk License](dbaj-license.md)**
+
+    An "open-source" license that doesn't let you redistribute the code or "distribute code which contains 50% or more Functionally Equivalent Statements* from this repository." Originally used by some legacy minecraft mods, it's not clear if it's actually possible to legally use this code at all.
