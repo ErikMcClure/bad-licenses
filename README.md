@@ -183,7 +183,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
     A "vibe-driven" license that essentially says "do what you want, but good luck." If you encounter issues or digital gremlins, the primary recourse is to "better ask the LLM." Offers no warranties and a hearty "who knows?" on intellectual property and secret family recipes.
 
-- **[GO FUCK YOURSELF PRIVATE LICENSE](GFYSPL)**
+- **[GO FUCK YOURSELF PRIVATE LICENSE](GFYPL)**
 
     Basically just ARR but requiring you to say "Go fuck yourself" to the licensee within 3 meters. You are also not allowed to look at the license, and if you do, refer back to the first part of this description.
 
