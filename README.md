@@ -194,3 +194,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[Big Bill Hell's License](BIG-BILL-HELLS-LICENSE)** [Source](https://snoot.tube/@lifning/109866791802246937)
 
    A license written as a parody of the [Big Bill Hell's Cars meme](https://knowyourmeme.com/memes/big-bill-hells), complete with it's own audio recording you can find at the source. In the spirit of the original, this is not an open-source license, and in fact says that if you do fork, distribute, sell, or really anything at all, they'll rip your bits off.
+
+- **[Baba Yaga License](baba-yaga)**
+
+  A license written in prose akin to writing one might expect from the folklore legend Baba Yaga. [Source](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
