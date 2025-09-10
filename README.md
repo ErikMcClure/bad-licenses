@@ -198,3 +198,11 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[Baba Yaga License](baba-yaga)**
 
   A license written in prose akin to writing one might expect from the folklore legend Baba Yaga. [Source](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
+
+- **[Good luck with that (SFW version)](good-luck-with-that-license)**
+
+  A license that permits any use of the software at the user's own risk, with no liability for the authors and a condition not to leave traces that could blame the original author.
+
+- **[Good luck with that Shit (NSFW version)](good-luck-with-that-shit-license)**
+
+  The spicy version of the GLWT license, allowing any use at the user's own risk, with no author liability and a condition against leaving blameable traces.
