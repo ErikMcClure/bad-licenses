@@ -198,3 +198,8 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[Baba Yaga License](baba-yaga)**
 
   A license written in prose akin to writing one might expect from the folklore legend Baba Yaga. [Source](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
+
+- **["i'm so tired" software license 1.0](im-so-tired-software-license)**
+
+  Aside from the funny name, this license includes an arbitrary and unlimited ethics clause that doesn't let you use the software for "ill-intentioned reasons". These reasons are, of course, at the sole discretion of the licensor(s). [Source](https://olmewe.com/notes/istsl/)
+
