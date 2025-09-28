@@ -201,5 +201,5 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
 - **["i'm so tired" software license 1.0](im-so-tired-software-license)**
 
-  Aside from the funny name, this license includes an arbitrary and unlimited ethics clause that doesn't let you use the software for "ill-intentioned reasons". These reasons are, of course, at the sole discretion of the licensor(s). [Source](https://olmewe.com/notes/istsl/)
+  Aside from the funny name, this license includes an arbitrary and unlimited ethics clause that doesn't let you use the software for "ill-intentioned reasons". The reasons listed are vague enough, but the authors are given carte blanche to determine any reason they want to be ill-intentioned. [Source](https://olmewe.com/notes/istsl/)
 
