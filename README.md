@@ -206,3 +206,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[D&R (Death and Repudiation) License](DEATH.md)**
 
   Only dead people can use the software. If you are found to be not dead, you will be punished to the fullest extent of the law. If you escape such punishments, you will be severely punished to the fullest extent of a new revised law that encompasses infinite punishments.
+
+- **[BEER-WARE](BEER-WARE)**
+
+  You can do what you want, but when you meet the author, you have to buy them a beer.
