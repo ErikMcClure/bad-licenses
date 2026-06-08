@@ -185,7 +185,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
 - **[GO FUCK YOURSELF PRIVATE LICENSE](GFYPL)**
 
-    Basically just ARR but requiring you to say "Go fuck yourself" to the licensee within 3 meters. You are also not allowed to look at the license, and if you do, refer back to the first part of this description.
+    Basically just ARR but requiring you to say "Go fuck yourself" to the licensee within 3 meters. You are also not allowed to look at the license, and if you do, refer back to the first part of this description. [Source](https://github.com/devOS-Sanity-Edition/GFYPL/blob/mistress/GFYPL)
 
 - **[Don't Be A Jerk License](dbaj-license.md)**
 
