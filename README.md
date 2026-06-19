@@ -210,3 +210,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[BEER-WARE](BEER-WARE)**
 
   You can do what you want, but when you meet the author, you have to buy them a beer.
+
+* **[FAMIT License](https://github.com/huangxp12/FAMIT/blob/main/LICENSE)**
+
+  An MIT-derivative parody license that adds a single additional "Condition 0" requiring the user to mentally recite a tongue-in-cheek phrase three times before each use of the software. All MIT permissions, conditions, and warranty disclaimer remain intact; the extra condition is clearly satirical and unenforceable in spirit. The LICENSE file itself is released under MIT. [Source](https://github.com/huangxp12/FAMIT)
