@@ -207,6 +207,10 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   Only dead people can use the software. If you are found to be not dead, you will be punished to the fullest extent of the law. If you escape such punishments, you will be severely punished to the fullest extent of a new revised law that encompasses infinite punishments.
 
+- **[Cooperative Nonviolent Public License](cnpl-na.md)**
+
+  Another license that actually tries to define immoral acts in a precise way, without actually knowing how to be legally precise. It does not distinguish between software, art, performance, or creative work, and instead tries to apply to all of them, at the same time! Bonus points for the definition of a network that accidentally excludes LANs or anything that doesn't transmit over the public internet. [Source](https://git.pixie.town/thufie/npl-builder/src/branch/main/cnpl-na.md)
+  
 - **[BEER-WARE](BEER-WARE)**
 
   You can do what you want, but when you meet the author, you have to buy them a beer.
