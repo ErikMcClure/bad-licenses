@@ -119,6 +119,13 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 
   An MIT derivative license that forbids promotion of "any characters from the anime Gabriel Dropout in any way except Satania". [Source](https://github.com/Pizzacus/satania.moe/blob/master/LICENSE.md)
 
+* **[Watermelon Public License (WPL)](https://github.com/mulmelon/WPL)**
+
+  A custom copyleft license that requires distributed derivative works to remain under WPL, but fails to clearly define the scope of its copyleft and source-code disclosure requirements. It also lacks explicit termination and patent provisions. Despite attempting to function as a serious software license, it includes legally irrelevant statements about watermelons and computers exploding.
+
+* **[My Name is Nobody](https://github.com/mulmelon/MNiN/)** <br><br>
+  Only people with the name "Nobody" could modify, copy, or redistribute.
+  
 * **[The You Only Live Once so do What The Fuck you want Public License with Specified EXceptions](YOLO-WTFPL-SEX)**
 
   A WTFPL derivation license which combines aspects of WTFPL, YOLO, THE STRONGEST PUBLIC LICENSE, and a clause saying two guys the author really hates are not allowed to use the software at all. [Source](https://github.com/SantX27/yu-topy/blob/master/LICENSE)
