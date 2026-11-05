@@ -214,3 +214,7 @@ UNOFFICIAL LEGAL ADVICE: Don't use these. Like, ever.
 - **[BEER-WARE](BEER-WARE)**
 
   You can do what you want, but when you meet the author, you have to buy them a beer.
+
+- **[Genius Public License v3.0 (GPLtv3)](https://github.com/jeff-hykin/JDSL/blob/master/LICENCE)**
+
+  A parody license that requires public acknowledgment of Tom's genius, prohibits anyone named "Jake" (including anyone who doesn't understand the system) from using the software, and demands that the source code be distributed in a "powerful. REALLY powerful" format. Despite its name, it is not the GNU GPLv3. [Source](https://github.com/jeff-hykin/JDSL/blob/master/LICENCE)
